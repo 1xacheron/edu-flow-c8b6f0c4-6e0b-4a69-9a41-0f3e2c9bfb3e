@@ -1,46 +1,34 @@
 {
   "9": [
     {
-      "name": "Document A",
-      "page": 12,
-      "preview": "https://example.com/preview/docA",
-      "download": "https://example.com/download/docA"
-    },
-    {
-      "name": "Document B",
-      "page": 8,
-      "preview": "https://example.com/preview/docB",
-      "download": "https://example.com/download/docB"
+      "name": "Pride and Prejudice",
+      "page": 414,
+      "preview": "https://covers.openlibrary.org/b/id/8231856-M.jpg",
+      "download": "https://openlibrary.org/works/OL14974806W"
     }
   ],
   "10": [
     {
-      "name": "Report X",
-      "page": 5,
-      "preview": "https://example.com/preview/reportX",
-      "download": "https://example.com/download/reportX"
+      "name": "Moby-Dick",
+      "page": 544,
+      "preview": "https://covers.openlibrary.org/b/id/7222246-M.jpg",
+      "download": "https://openlibrary.org/works/OL45883W"
     }
   ],
   "11": [
     {
-      "name": "Guide 1",
-      "page": 30,
-      "preview": "https://example.com/preview/guide1",
-      "download": "https://example.com/download/guide1"
-    },
-    {
-      "name": "Guide 2",
-      "page": 18,
-      "preview": "https://example.com/preview/guide2",
-      "download": "https://example.com/download/guide2"
+      "name": "The Great Gatsby",
+      "page": 218,
+      "preview": "https://covers.openlibrary.org/b/id/295577-M.jpg",
+      "download": "https://openlibrary.org/works/OL27340W"
     }
   ],
   "12": [
     {
-      "name": "Manual Z",
-      "page": 42,
-      "preview": "https://example.com/preview/manualZ",
-      "download": "https://example.com/download/manualZ"
+      "name": "1984",
+      "page": 328,
+      "preview": "https://covers.openlibrary.org/b/id/153541-M.jpg",
+      "download": "https://openlibrary.org/works/OL7343620W"
     }
   ]
 }
