@@ -1,0 +1,46 @@
+{
+  "9": [
+    {
+      "name": "Document A",
+      "page": 12,
+      "preview": "https://example.com/preview/docA",
+      "download": "https://example.com/download/docA"
+    },
+    {
+      "name": "Document B",
+      "page": 8,
+      "preview": "https://example.com/preview/docB",
+      "download": "https://example.com/download/docB"
+    }
+  ],
+  "10": [
+    {
+      "name": "Report X",
+      "page": 5,
+      "preview": "https://example.com/preview/reportX",
+      "download": "https://example.com/download/reportX"
+    }
+  ],
+  "11": [
+    {
+      "name": "Guide 1",
+      "page": 30,
+      "preview": "https://example.com/preview/guide1",
+      "download": "https://example.com/download/guide1"
+    },
+    {
+      "name": "Guide 2",
+      "page": 18,
+      "preview": "https://example.com/preview/guide2",
+      "download": "https://example.com/download/guide2"
+    }
+  ],
+  "12": [
+    {
+      "name": "Manual Z",
+      "page": 42,
+      "preview": "https://example.com/preview/manualZ",
+      "download": "https://example.com/download/manualZ"
+    }
+  ]
+}
