@@ -1,34 +1,13 @@
 {
   "9": [
     {
-      "name": "Pride and Prejudice",
-      "page": 414,
-      "preview": "https://covers.openlibrary.org/b/id/8231856-M.jpg",
-      "download": "https://openlibrary.org/works/OL14974806W"
+      "name": "GAZLARA DOĞRU – TEST PDF",
+      "page": 12,
+      "preview": "",
+      "download": "https://cdn.discordapp.com/attachments/1322690044481372261/1448420821696643323/GAZLARA_DOGRU_BEBEK_ADIMLARI-NS_-_1.pdf?ex=693b3282&is=6939e102&hm=ce894c4e0e4603e71332795ba94f7d1b3c99e0a984d170492f910d060117ac95&"
     }
   ],
-  "10": [
-    {
-      "name": "Moby-Dick",
-      "page": 544,
-      "preview": "https://covers.openlibrary.org/b/id/7222246-M.jpg",
-      "download": "https://openlibrary.org/works/OL45883W"
-    }
-  ],
-  "11": [
-    {
-      "name": "The Great Gatsby",
-      "page": 218,
-      "preview": "https://covers.openlibrary.org/b/id/295577-M.jpg",
-      "download": "https://openlibrary.org/works/OL27340W"
-    }
-  ],
-  "12": [
-    {
-      "name": "1984",
-      "page": 328,
-      "preview": "https://covers.openlibrary.org/b/id/153541-M.jpg",
-      "download": "https://openlibrary.org/works/OL7343620W"
-    }
-  ]
+  "10": [],
+  "11": [],
+  "12": []
 }
