@@ -1,5 +1,76 @@
 {
-  "9": [],
+  "9": [
+    {
+        "name": "Din Kültürü ve Ahlak Bilgisi 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/din-kulturu-ve-ahlak-bilgisi-9.webp",
+        "download": "1J9kDupc3HHL94yu5UKZvfQOFR5IzUhMF",
+        "type": "MEB"
+    },
+    {
+        "name": "Biyoloji 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/biyoloji-9.webp",
+        "download": "1obNetnLj6pACQHQdUbm7KqVO6Xvq3nqh",
+        "type": "MEB"
+    },
+    {
+        "name": "Coğrafya 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/cografya-9.webp",
+        "download": "1vUDv05y-4IjiaIrL78stSpQ7jcqqr9Bg",
+        "type": "MEB"
+    },
+    {
+        "name": "Fizik 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/fizik-9.webp",
+        "download": "1e2mFWBtzUs8N8BH3AHA6loeLWENkyrZv",
+        "type": "MEB"
+    },
+    {
+        "name": "Kimya 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/kimya-9.webp",
+        "download": "1ZxuuVOVIFIEAxg4JcngspS3LDDGLcp9D",
+        "type": "MEB"
+    },
+    {
+        "name": "Matematik 9.Sınıf Ders Kitabı (1.Kitap)",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/matematik-9.webp",
+        "download": "18IiLNNjWk6iMQeInSnfxV7oAjKs9yUb4",
+        "type": "MEB"
+    },
+    {
+        "name": "Tarih 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/tarih-9.webp",
+        "download": "1Aldbjp34sS2V6cRel6OmHvmKwbKKmJ0B",
+        "type": "MEB"
+    },
+    {
+        "name": "Türk Dili ve Edebiyatı 9.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/turk-dili-ve-edebiyati-9.webp",
+        "download": "15cPITd6cWxMt8nX6WIAyOdaKecAYiivY",
+        "type": "MEB"
+    },
+    {
+        "name": "UPPER SECONDARY EDUCATION WAYMARK YEAR 9/B1.1 DERS KİTABI",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/waymark-year-9-b1.1-ders-kitabi.webp",
+        "download": "187tghyt9YNPLMEwsMOlKdL3OJmAZd131",
+        "type": "MEB"
+    },
+    {
+        "name": "UPPER SECONDARY EDUCATION WAYMARK YEAR 9/B1.1 ÇALIŞMA KİTABI",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/waymark-year-9-b1.1-calisma-kitabi.webp",
+        "download": "1OO3uwy97BpLtvvnEKCr28y6v3n71tFBA",
+        "type": "MEB"
+    }
+  ],
   "10": [],
   "11": [
     {
