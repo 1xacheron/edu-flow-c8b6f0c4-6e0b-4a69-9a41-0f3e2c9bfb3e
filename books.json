@@ -71,34 +71,120 @@
         "type": "MEB"
     }
   ],
-  "10": [],
+  "10": [
+    {
+        "name": "Biyoloji 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/biyoloji-10.webp",
+        "download": "11NxjDbOfOfuC8_8xMbX7tlj5Vy5MnqHC",
+        "type": "MEB"
+    },
+    {
+        "name": "Coğrafya 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/cografya-10.webp",
+        "download": "1vTBfU3uoKW8OpcmR3Qfk4_q1cy9AwpOn",
+        "type": "MEB"
+    },
+    {
+        "name": "Felsefe 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/felsefe-10.webp",
+        "download": "1ws8kX4x6F6pSqUchpaaac41VTxb-evCu",
+        "type": "MEB"
+    },
+    {
+        "name": "Fizik 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/fizik-10.webp",
+        "download": "1wIsukLKme4knYgwL3E3mvsjyt7onoqm1",
+        "type": "MEB"
+    },
+    {
+        "name": "Kimya 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/kimya-10.webp",
+        "download": "1KmdYFIrhgX2kyrgAcUsEao3smdgWJ_Ju",
+        "type": "MEB"
+    },
+    {
+        "name": "Matematik 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/matematik-10.webp",
+        "download": "1q904nxLnEoN9oAvdzavmvSyn22KOUnt1",
+        "type": "MEB"
+    },
+    {
+        "name": "Tarih 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/tarih-10.webp",
+        "download": "1W2WT5I_Iu7KGUh7rf_-E4Z74E1__XAQe",
+        "type": "MEB"
+    },
+    {
+        "name": "Türk Dili ve Edebiyatı 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/turk-dili-ve-edebiyati-10.webp",
+        "download": "13qeUZvPfkKHaBsIdLAt5O3MNmvkt-Pf_",
+        "type": "MEB"
+    }
+  ],
   "11": [
     {
-      "name": "ANALİTİK DOĞRUNUN ANALİTİĞİ",
-      "type": "kaynakFASKL",
-      "fasikuller": [
-        {
-          "fasikulNo": 1,
-          "name": "Fasikül xasxas",
-          "page": 6,
-          "preview": "",
-          "download": "1kR3l6lT4H27RHpreOGoQlIMJKYOclFQo"
-        },
-        {
-          "fasikulNo": 2,
-          "name": "Fasikül xasdxasd",
-          "page": 8,
-          "preview": "",
-          "download": "2Ab3Cd4EfGHJKLmnoPQrsTuvWxYz"
-        },
-        {
-          "fasikulNo": 2,
-          "name": "Fasikül xasdxasd",
-          "page": 8,
-          "preview": "",
-          "download": "2Ab3Cd4EfGHJKLmnoPQrsTuvWxYz"
-        }
-      ]
+        "name": "Türk Dili ve Edebiyatı 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2025/09/tTURK-DILI-11-ATA-2025.png",
+        "download": "191vE1bEUHCp3m1VflkH_hhRQc95sVuxB",
+        "type": "MEB"
+    },
+    {
+        "name": "Biyoloji 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2025/09/biyoloji-11-tutku-2025.png",
+        "download": "1DR_6CIXIuhqiX-vurqyWy8wN6fBNiw-T",
+        "type": "MEB"
+    },
+    {
+        "name": "Fizik 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2024/08/fizik-11-ata-yayincilik.png",
+        "download": "1j5EhpPwNHw-TmUc73EBWxBKMimLeIKP8",
+        "type": "MEB"
+    },
+    {
+        "name": "Felsefe 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2025/09/FELSEFE-11-HISAR-2024.png",
+        "download": "1i1yix7HzPgerTHO6Hsfdfp9YokgJBh33",
+        "type": "MEB"
+    },
+    {
+        "name": "Tarih 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2024/08/tarih-11-ders-destek-yayincilik.png",
+        "download": "154PjylmKAIZCsti5MQxN3eZquh0G9FJq",
+        "type": "MEB"
+    },
+    {
+        "name": "Ingilizce 11.Sınıf Ders KİTABI",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2024/08/INGILIZCE-11-YILDIRIM-DERS-KITABI-2024.png",
+        "download": "1fN-3iFF4cC0DkYCu6Z284NLwTXK5LLJs",
+        "type": "MEB"
+    },
+    {
+        "name": "Din Kültürü ve Ahlak Bilgisi 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2024/08/11-DIN-SDR-ipekyolu-2024.webp",
+        "download": "1WQ-6cLGADqwjm8ushLXBKj6Vj5tHxU37",
+        "type": "MEB"
+    },
+    {
+        "name": "Matematik 11.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://www.kimyadenizi.com/wp-content/uploads/2021/09/matematik-11-sdr-dikey-yayincilik.png",
+        "download": "1CXxP0vDDtPsBTQIsg4rX5VgX6GdsMz-T",
+        "type": "MEB"
     }
   ],
   "12": []
