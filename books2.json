@@ -71,7 +71,64 @@
         "type": "MEB"
     }
   ],
-  "10": [],
+  "10": [
+    {
+        "name": "Biyoloji 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/biyoloji-10.webp",
+        "download": "11NxjDbOfOfuC8_8xMbX7tlj5Vy5MnqHC",
+        "type": "MEB"
+    },
+    {
+        "name": "Coğrafya 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/cografya-10.webp",
+        "download": "1vTBfU3uoKW8OpcmR3Qfk4_q1cy9AwpOn",
+        "type": "MEB"
+    },
+    {
+        "name": "Felsefe 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/felsefe-10.webp",
+        "download": "1ws8kX4x6F6pSqUchpaaac41VTxb",
+        "type": "MEB"
+    },
+    {
+        "name": "Fizik 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/fizik-10.webp",
+        "download": "1wIsukLKme4knYgwL3E3mvsjyt7onoqm1",
+        "type": "MEB"
+    },
+    {
+        "name": "Kimya 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/kimya-10.webp",
+        "download": "1KmdYFIrhgX2kyrgAcUsEao3smdgWJ_Ju",
+        "type": "MEB"
+    },
+    {
+        "name": "Matematik 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/matematik-10.webp",
+        "download": "1q904nxLnEoN9oAvdzavmvSyn22KOUnt1",
+        "type": "MEB"
+    },
+    {
+        "name": "Tarih 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/tarih-10.webp",
+        "download": "1W2WT5I_Iu7KGUh7rf_",
+        "type": "MEB"
+    },
+    {
+        "name": "Türk Dili ve Edebiyatı 10.Sınıf Ders Kitabı",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/turk-dili-ve-edebiyati-10.webp",
+        "download": "13qeUZvPfkKHaBsIdLAt5O3MNmvkt",
+        "type": "MEB"
+    }
+  ],
   "11": [],
   "12": []
 }
