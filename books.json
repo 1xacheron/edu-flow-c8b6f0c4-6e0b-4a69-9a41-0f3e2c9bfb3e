@@ -74,19 +74,25 @@
   "10": [],
   "11": [
     {
-      "name": "ANALİTİK DOĞRUNUN ANALİTİGİ",
-      "page": 6,
-      "preview": "",
-      "download": "1kR3l6lT4H27RHpreOGoQlIMJKYOclFQo",
-      "type": "MEB"
-    },
-    {
-      "name": "TDEdebiyat",
-      "page": 312,
-      "preview": "https://github.com/1xacheron/edu-flow-c8b6f0c4-6e0b-4a69-9a41-0f3e2c9bfb3e/blob/main/tdekapak.png?raw=true",
-      "download": "1GPrCctFd17qETnP3XoTkjTX8S_AeX-zw",
-      "type": "MEB"
+      "name": "ANALİTİK DOĞRUNUN ANALİTİĞİ",
+      "type": "kaynakFASKL",
+      "fasikuller": [
+        {
+          "fasikulNo": 1,
+          "name": "Fasikül 1",
+          "page": 6,
+          "preview": "",
+          "download": "1kR3l6lT4H27RHpreOGoQlIMJKYOclFQo"
+        },
+        {
+          "fasikulNo": 2,
+          "name": "Fasikül 2",
+          "page": 8,
+          "preview": "",
+          "download": "2Ab3Cd4EfGHJKLmnoPQrsTuvWxYz"
+        }
+      ]
     }
-  ],
+  ]
   "12": []
 }
