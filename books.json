@@ -257,5 +257,20 @@
         "type": "MEB"
     }
   ],
-  "12": []
+  "12": [
+    {
+        "name": "12 Ders Kitabi Mat",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/din-kulturu-ve-ahlak-bilgisi-9.webp",
+        "download": "1MMe9lfAezLc-w1Xo6iHFPnlTTdNRVS7L",
+        "type": "MEB"
+    },
+    {
+        "name": "12 Möf Logaritma Dizeler",
+        "page": 100,
+        "preview": "https://tymm.meb.gov.tr/img/v2/kitap/biyoloji-9.webp",
+        "download": "1IbKEkEfVuzJnXJbDE5ybVLQW4gLGBXLC",
+        "type": "MEB"
+    }
+  ]
 }
